@@ -1,0 +1,45 @@
+h1{
+    color: rgb(243, 20, 169);
+    
+}
+ol{
+    color: rgb(255, 8, 152);
+}
+p{
+    color: rgb(255, 8, 152);
+}
+img{
+    width: 750px;
+}
+body{
+   
+    background-image: url(../img/Fondo.jpg)
+}
+.subtitulo{
+    color:rgb(164, 23, 230)
+}
+h3{
+    color: rgb(164, 23, 230);
+}
+a:hover{
+    color: rgb(252, 50, 15);
+    
+}
+a:active{
+    color: black
+}
+a:visited{
+    color: black
+}
+a:link{
+    color: black
+}
+.col-2{
+    border-right:solid 1px ;
+    border-bottom:solid 1px ;
+   border-top:solid 1px ;
+   color:rgb(243, 20, 169)
+}
+li{
+color: black;
+}
