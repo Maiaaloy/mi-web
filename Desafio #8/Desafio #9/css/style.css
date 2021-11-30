@@ -1,0 +1,13 @@
+body{
+   
+    background-image: url(../img/Fondo.jpg)
+}
+.card{
+    width: 350px;
+}
+.img{
+    width: 350px;
+}
+p{
+    color: rgb(224, 38, 100);
+}
